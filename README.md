@@ -14,7 +14,7 @@
 
 ###
 
-<img src="C:\Users\pawan\OneDrive - University of Plymouth\cs50\video\GITHUB\Pawani245_snake.yml at main · Pawani245_Pawani245.html" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
 
