@@ -14,7 +14,7 @@
 
 ###
 
-![Snake animation](https://github.com/Pawani245/Pawani245/blob/gh-pages/github-contribution-grid-snake.svg)
+### ![Snake animation](https://github.com/Pawani245/Pawani245/blob/gh-pages/github-contribution-grid-snake.svg)
 
 ###
 <div align="left">
