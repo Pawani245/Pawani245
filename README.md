@@ -14,7 +14,7 @@
 
 ###
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://github.com/Pawani245/Pawani245/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
