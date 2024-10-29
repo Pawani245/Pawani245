@@ -14,14 +14,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pawani245/Pawani245/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Pawani245/Pawani245/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-<img src="https://raw.githubusercontent.com/Pawani245/Pawani245/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img height="100" src="https://media.tenor.com/MZZRFC2G20EAAAAi/hello-cute.gif"  />
 </div>
