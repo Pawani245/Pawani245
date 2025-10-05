@@ -7,6 +7,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Pawani245/Pawani245/output/github-snake.svg" />
 </picture>
 </div>
